@@ -1,0 +1,109 @@
+@0    = ~v1.1~
+@1    = ~CritterParts~
+@2    = ~This component requires the BG:EE version of the game.~
+@3    = ~Tobias~
+@4    = ~Campfire~
+@5    = ~Mr. Tanner~
+
+@7    = ~Sildah~
+@8    = ~Henry~
+@9    = ~Gertrude~
+@10   = ~Dearie~
+@11   = ~Samuel~
+@12   = ~Caleb~
+@13   = ~Daisy~
+@14   = ~Bear Meat~
+@15   = ~The rendered fat of bear meat is highly valued for it's versatility in making a variety of common necessities. Among them, lamp oil, soap and medicinal balms. Mixed with beeswax, it makes a fine grease for treating and weatherproofing leather. It's many culinary uses include it's renowned effect when used in pie crusts and pastries. Many find it a fine addition to a hearty stew.
+
+When wholly consumed, this meat restores 5 Hit Points to the person.
+(Place in quick slot.)
+
+STATISTICS:
+
+Special: Restores 5 Hit Points.~
+@16   = ~Wild Dog Meat~
+@17   = ~Though not popular table fare for any but the poorest of peasants, this meat has been used extensively as feed for carnivorous stock. Umber Hulks are said to be especially fond of it.
+
+When wholly consumed, this meat restores 2 Hit Points to the person.
+(Place in quick slot.)
+
+STATISTICS:
+
+Special: Restores 2 Hit Points.~
+@18   = ~Wolf Meat~
+@19   = ~Owing to it's tough gamey nature, wolf meat is rarely popular table fare, though it can be welcome sustenance for a hungry adventuring party.
+
+When wholly consumed, this meat restores 3 Hit Points to the person.
+(Place in quick slot.)
+
+STATISTICS:
+
+Special: Restores 3 Hit Points.~
+@20   = ~Wolf Hide~
+@21   = ~A properly skinned and fleshed hide can bring a fine price at market.~
+@22   = ~Bear Hide~
+@23   = ~Dog Hide~
+@24   = ~Animal Bones~
+@25   = ~Animal bones have many practical uses in the fashioning of clothing and armor. They are also often used in ritualistic and religious ceremonies, or simply carved into whimsical figures to delight children. Ground into a fine powder, they have many uses in magical and medicinal potions. In a pinch, a large heavy bone can make a fine club.~
+@26   = ~Though he will undoubtably slow the party down, what else can you do? There is no way the boy can make it back home without your help. Thankfully, with your assistance he is able to bear some of his own weight on his one good leg.
+
+STATISTICS:
+
+Weight: 50~
+@27   = ~Tough Leather Coat~
+@28   = ~The superior craftsmanship that went into the making of this coat is evident. The soft, yet tough leather of this garment is surprisingly resistant to puncture. Whether it be by tooth, claw, or a would-be assassin's arrow.
+
+Armor Class: 5 (3 vs. piercing and missile)
+
+Requires: 4 Strength
+
+Weight: 5~
+@29   = ~The superior craftsmanship that went into the making of this vest is evident. The soft, yet tough leather of this garment is surprisingly resistant to puncture. Whether it be by tooth, claw, or a would-be assassin's arrow.
+
+Armor Class: 5 (3 vs. piercing and missile)
+
+Requires: 4 Strength
+
+Weight: 5~
+@30   = ~Silken Leather Robe~
+@31   = ~The superior craftsmanship that went into the making of this robe is evident. Despite it's protective nature, it offers no resistance to even the subtlest of movements. Soft and supple as silk, it flows with every gentle gesture, offering no encumbrance to spell casting.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +1
+- Saving Throws: +1
+- Fire Resistance: +5%
+- Cold Resistance: +5%
+- Electrical Resistance: +5%
+- Acid Resistance: +5%
+
+
+Weight: 3~
+@32   = ~Bone Leather Vest~
+@33   = ~The superior craftsmanship that went into the making of this vest is evident. Lightweight, yet tough as chain mail. With the added benefit of being more resistant to piercing damage than most chain armors.
+
+Armor Class: 3 (1 vs. piercing and missile, 6 vs. crushing)
+
+Requires: 8 Strength
+
+Weight: 8~
+@34   = ~Spider Venom~
+@35   = ~Careless handling of this deadly substance has had unfortunate consequences for more than one would-be assassin.~
+@36   = ~Intact Spider Body~
+@37   = ~This spider is still intact enough to tempt you to poke it again, just to make sure it is indeed dead.~
+@38   = ~Black Bear~
+@39   = ~Brown Bear~
+@40   = ~Polar Bear~
+@41   = ~Cave Bear~
+@42   = ~War Dog~
+@43   = ~Wild Dog~
+@44   = ~Worg~
+@45   = ~Wolf~
+@46   = ~Dread Wolf~
+@47   = ~Dire Wolf~
+@48   = ~Vampiric Wolf~
+@49   = ~Huge Spider~
+@50   = ~Sword Spider~
+@51   = ~Giant Spider~
+@52   = ~Wraith Spider~

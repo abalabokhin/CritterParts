@@ -2,7 +2,7 @@ BEGIN RLCamp
 
 IF ~Global("RLCampTalk","GLOBAL",0)~ THEN BEGIN RLCamp 
 
-SAY ~(The rock wall here will provide welcome protection from the wind and a defensible position at your back as well. You decide to set up camp for the night.)~
+SAY @0
  
 IF ~~ THEN DO ~SetGlobal("RLCampTalk","GLOBAL",1)~
 
